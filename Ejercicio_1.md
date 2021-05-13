@@ -2,7 +2,7 @@
 
 ## Introducción al problema
 
-Tengo en servicio técnico, de aparatología estética enfocado a los servicios de reparación, mantenimiento y conservación de maquinaria. Estoy ubicado en una localidad, de barcelona y mis Clientes están distribuidos por toda España en general. Hasta ahora, he subsistido mayormente por los contactos y baja presencia online, pero con la pandemia el sector ha empeorado al punto de perder Clientes altamente valorados, por lo que necesito renovar y automatizar procesos en mi negocio, con el proyecto buscaré atraer a más gente y al mismo tiempo reducir el tiempo que le dedico a las consultas que requieren respuestas recurrentes.
+Tengo en servicio técnico, de aparatología estética enfocado a los servicios de reparación, mantenimiento y conservación de maquinaria. Estoy ubicado en una localidad, de barcelona y mis Clientes están distribuidos por toda España en general. Hasta ahora, he subsistido por los contactos y baja presencia online, pero con la pandemia el sector ha empeorado al punto de perder Clientes altamente valorados. Necesito renovar y automatizar procesos de mi negocio. Con el proyecto buscaré atraer a más gente y al mismo tiempo reducir el tiempo que le dedico a las consultas que requieren respuestas recurrentes.
 
 Quiero poder ofrecer catálogos o listas de productos y servicios, para una serie de modelos de máquinas en específico. De forma que me permita agilizar la asistencia y soluciones a mis Clientes.
 
