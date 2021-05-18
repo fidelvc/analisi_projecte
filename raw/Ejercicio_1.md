@@ -25,5 +25,8 @@ Como contenido, ofrecerá documentación, guías, listado de servicios, producto
 3. La crisis económica antes y durante la pandemia, disparó el cierre de empresas tanto Clientes como distribuidores, además la presencia online es la vía elegida para relacionarse, el no dominar sus herramientas, sería debastador.
 
 Las ventajas, las veo únicamente en mi mente, pienso que además de informar, podré proporcionar herramientas últiles a mis Clientes, guías, recomendaciones, que generalmente solo está disponibles en algunos documentos y no son de fácil ubicación. Además podré encajar dentro de los servicios técnicos y ofrecer cosas que distribuidores y fabricantes no hacen.
+## SITEMAP
 
-Autor: Fidel VC
+Esta es la idea inicial que tengo en mente. Veré de mejorar el enfoque en próximos avances.
+
+![map-site](.//sitemap_qtech.png)
